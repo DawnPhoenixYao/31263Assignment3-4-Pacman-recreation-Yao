@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,19 +110,19 @@ TextureImporter:
       name: Power Pellet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 36
-        width: 26
-        height: 22
-      alignment: 9
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25733667722a18848a0e5e2259556202
-      internalID: 267452824
+      spriteID: 370e9671100e9f64087baeb6fdd94f2e
+      internalID: 869854617
       vertices: []
       indices: 
       edges: []
@@ -131,19 +131,19 @@ TextureImporter:
       name: Power Pellet_1
       rect:
         serializedVersion: 2
-        x: 3
-        y: 4
-        width: 26
-        height: 22
-      alignment: 9
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b9f191211f71ec4ca0ffbac607ffc5d
-      internalID: 449610390
+      spriteID: d398f771cd2388c4e9a1069f102b150c
+      internalID: -323558766
       vertices: []
       indices: 
       edges: []
@@ -159,8 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Power Pellet_0: 267452824
-      Power Pellet_1: 449610390
+      Power Pellet_0: 869854617
+      Power Pellet_1: -323558766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
